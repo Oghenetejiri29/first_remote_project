@@ -2,7 +2,7 @@
 #!/usr/bin/env python3
 
 '''
-Prompt the user for first name and display output
+Prompt the user for first name and display output of result
 '''
 
 first_name = input("Enter first name: " )
